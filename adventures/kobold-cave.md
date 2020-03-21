@@ -11,7 +11,7 @@ Inside:
 
 A nearby village was complaining about increasing kobold attacks coming from the nearby woods. They are pests that need to be dealt with quickly before they breed and overrun the area. The people of the village pooled together and are offering a meager reward to whoever wipes them out. It isn't much, but it is the best they can offer. You agree and they send you off with three days worth of food. You thank them and enter the forest.
 
-### Chapter 1: The Forest
+## Chapter 1: The Forest
 
 You walk deep into the forest. You try your best to follow the directions the villagers gave you. You're looking for a cave that the villagers think the kobolds would have moved into.
 
@@ -33,7 +33,7 @@ Note: if there is an asterisk next to "_You come across a river_" reroll the dic
 
 ---
 
-#### 1a A river
+### 1a A river
 
 This is the river the villager mentioned. You are on the right path. Now you just have to get across it. It looks like it is pretty deep, and the water is moving fast. What do you do?
 
@@ -42,7 +42,7 @@ This is the river the villager mentioned. You are on the right path. Now you jus
 * Try to use a tree as a bridge (requires axe weapon) [go to 1a-1]
 * Cross the bridge (requires above option crossed out) [go to 1a-2]
 
-##### 1a-1 Use a tree as a bridge
+#### 1a-1 Use a tree as a bridge
 
 * Requires an axe
 
@@ -65,7 +65,7 @@ On a 3-6 or after combat on a 1:
 
 * Go back to 1a and cross out "*try to use a tree as a bridge*"
 
-##### 1a-2 Cross the bridge
+#### 1a-2 Cross the bridge
 
 You are on a tree bridge. You are carefully making your way across. 
 
@@ -78,7 +78,7 @@ Roll 1 die:
 ---
 
 
-##### 1a-3 Wading across
+#### 1a-3 Wading across
 
 The cold water is rushing all around you, threatening to push you downstream. It is dark and hard to see. You get about halfway across the river and the water is about waist deep. The rocks at the riverbed are very slippery. 
 
@@ -89,7 +89,7 @@ Roll 1 die.
 3 or under: You slip. [go to 1a-6]
 4 or above: You make it across [go to 1a-5]
 
-##### 1a-4 Try to find a safer place to cross
+#### 1a-4 Try to find a safer place to cross
 
 You walk along the riverbed trying to find a safe way across. After a few minutes of walking, you find one and...
 
@@ -105,11 +105,11 @@ After: go to 1a-5
 
 ---
 
-##### 1a-5 You make it across
+#### 1a-5 You make it across
 
 You made it safely to the other side of the river. Go back to the beginning of chapter one and put an asterisk next to "*You come across a river*."
 
-##### 1a-6 Rushing downstream
+#### 1a-6 Rushing downstream
 
 You are rushing at a pretty high speed down the river. You are struggling to come up for air as the water mercilessly thrashes you around into rocks and pulling you back under. Eventually the river finally slows down enough so that you can swim to the shore.
 
@@ -119,17 +119,17 @@ Roll 1 die.
 * 3 or under: You are lost [go to 1g]
 * 4 or above: You find your bearings [go back to the start of chapter 1]
 
-#### 1b Kobold scouts
+### 1b Kobold scouts
 
 As you are walking through the forest, you think you hear something. You stop and try to listen. After a few moments you spot a kobold. It is either a scout or just a really hungry kobold. Either way, it smells you and is charging at you. Enter combat with a kobold and then go back to the beginning of chapter 1.
 
-#### 1c Spiders
+### 1c Spiders
 
 You are walking down a part of the forest. You almost would swear you have seen this part of the forest except you don't remember there being spider webs everywhere. As you consider turning around you hear a noise above you. Descending from a tree is a giant spider.
 
 Enter combat with a spider and then go back to the beginning of Chapter 1.
 
-#### 1d A Cave
+### 1d A Cave
 
 Finally, you come across a cave. You peer inside.
 
@@ -141,13 +141,13 @@ Roll 1 die. If you have an asterisk next to the river, add one to the result.
 2-3: This cave is too small to be the right cave. [go back to chapter 1]
 4-6: You can hear kobolds inside. [go to chapter 2]
 
-#### 1e A Bear?!?
+### 1e A Bear?!?
 
 You stumble upon a bear. If you have the animal training skill, you can move past it without being attacked. Otherwise enter combat with a bear.
 
 Go back to chapter one, if you killed the bear you can cross that off of the encounter list and give yourself 1XP for being a badass.
 
-#### 1f Strange mushrooms
+### 1f Strange mushrooms
 
 After walking in the forest for a while, you start getting frustrated at how everything in this forest looks the same. Your feet are starting to ache. At the bottom of a hill, you see some strange mushrooms. 
 
@@ -162,7 +162,7 @@ If you would like to try to eat them, roll one die. If you have the survival ski
 
 Return to the beginning of chapter 1.
 
-#### 1g Lost in the woods
+### 1g Lost in the woods
 
 You are hopelessly lost. It's dark, everything looks the same. Giant tree after giant tree.
 
@@ -181,7 +181,7 @@ Roll 2 dice.
 
 You must keep rolling until you find your way.
 
-### Chapter 2: The Cave
+## Chapter 2: The Cave
 
 You finally made it to the kobold cave. There is light coming from within and you can hear kobolds making a ruckus. Some are screaming, some are chanting, and it sounds like some of them are just banging on things.
 
@@ -197,7 +197,7 @@ Roll 2 dice.
 11: Treasure! [go to 2b]
 12: The King's chamber [go to chapter 3]
 
-#### 2a Dead Adventurer
+### 2a Dead Adventurer
 
 You come across an adventurer that has expired. You hope you don't end up like this person.
 
@@ -222,7 +222,7 @@ Roll 1 die.
   * 6: A spiked shield
 * 6: A previous character's item, 1 xp, and 3 gp
 
-#### 2b Treasure! 
+### 2b Treasure! 
 
 * 1: 3 gp
 * 2: 1 food, 2 torches, and an antidote
@@ -238,7 +238,7 @@ Roll 1 die.
   * 5: A bow and 3 arrows
   * 6: A spiked shield
 
-### Chapter 3: The Kobold King
+## Chapter 3: The Kobold King
 
 The cave opens up into a much bigger area. You see where all the light was coming from. There are small campfires scattered around this area of the cave. Most of the fires have something or other cooking on them. Some of them appear to actually have kobolds cooking.
 
@@ -246,13 +246,13 @@ There must be 30-60 live kobolds here. Although it is hard to say for sure becau
 
 Enter combat with the kobold king. After combat, go to the epilogue.
 
-### Epilogue
+## Epilogue
 
 After killing the kobold king, all the other kobolds seem to no longer view you as a viable food source and start fleeing out of the cave. On your way out of the cave, any kobolds you see just flee on sight. You don't run into any more encounters on the way back to the village either. You think the kobolds must have scared off all the wildlife.
 
 The villagers are thankful and offer you a night of rest. After you efforts, the kobolds in the forest scattered and slowly died off from their lack of survival instinct or were hunted by larger predators. After two months, they had all died out and there was never a kobold sighted in that forest ever again. 
 
-#### Loot!
+### Loot!
 
 Gain 2 xp. Roll on the loot table 3 times. Upon making it back to the village, the villagers give you an additional 5 gp.
 
