@@ -99,7 +99,7 @@ Your character will probably die at some point. And that's ok! The game was desi
 
 ### Legend lives on
 
-Your new character will have a chance to get some of dead characters stuff back. In most adventures there are loot rolls that have an option to retrieve a previous character's stuff. You can take one of their items and gain 1 XP for investigating how they died.
+Your new character will have a chance to get some of the dead character's stuff back. In most adventures there are loot rolls that have an option to retrieve a previous character's stuff. You can take one of their items and gain 1 XP for investigating how they died.
 
 ### Tips
 
