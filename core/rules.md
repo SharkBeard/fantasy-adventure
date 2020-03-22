@@ -2,7 +2,7 @@
 
 ## Introduction
 
-*Fantasy Adventure* is a solitare, or solo, Role-Playing system. It is best described as a cross between a choose your own adventure book, a video-game rogue-like, and a tabletop role playing game.
+*Fantasy Adventure* is a solitaire, or solo, Role-Playing system. It is best described as a cross between a choose your own adventure book, a video-game rogue-like, and a tabletop role playing game.
 
 ## Combat
 
@@ -10,15 +10,15 @@ Combat in *Fantasy Adventure* is skill-based. It is quick, gritty, and often dea
 
 ### Wounds
 
-Unlike a lot of RPGs, getting hit in *Fantasy Adventure* is really devastating. Whenever a character is hit they take a wound. Most characters can only take a wound or two before it becomes fatal. There are two types of wounds, **Flesh Wounds** and **Greivous Wounds**.
+Unlike a lot of RPGs, getting hit in *Fantasy Adventure* is really devastating. Whenever a character is hit they take a wound. Most characters can only take a wound or two before it becomes fatal. There are two types of wounds, **Flesh Wounds** and **Grievous Wounds**.
 
 #### Flesh Wound
 
 A **Flesh Wound** is a type of wound you can recover from with some rest. These represent the cuts, bruises, and broken bones you may get while adventuring. 
 
-#### Greivous Wound
+#### Grievous Wound
 
-**Greivous Wounds** represent the fatal or near-fatal wounds your character can take. If this was your last **Greivous Wound** your character has died. If it was not your last wound, you will have to roll for a *permanent* injury that persists even after you heal your wounds. This could be anything from a permenant limp to losing an eye or an arm.
+**Grievous Wounds** represent the fatal or near-fatal wounds your character can take. If this was your last **Grievous Wound** your character has died. If it was not your last wound, you will have to roll for a *permanent* injury that persists even after you heal your wounds. This could be anything from a permanent limp to losing an eye or an arm.
 
 ---
 
@@ -50,7 +50,7 @@ There are three main types of defenses in the game: **Dodge**, **Guard**, and **
 
 ### Dodge
 
-**Dodge** is your character's ability to get out of the way and avoid attacks. Every character starts with inate **Dodge** ability unless it says otherwise. Enemies can try to **Pin** or **Root** you in place. While an enemy has you in either of these states, you may use the **Unpin** action to restore your **Dodge**.
+**Dodge** is your character's ability to get out of the way and avoid attacks. Every character starts with innate **Dodge** ability unless it says otherwise. Enemies can try to **Pin** or **Root** you in place. While an enemy has you in either of these states, you may use the **Unpin** action to restore your **Dodge**.
 
 #### Unpin
 
@@ -63,11 +63,11 @@ Roll 1 die. On a 3 or lower, you remain *Rooted*, while on a 4 or higher you are
 
 ### Guard
 
-**Guard** is your character's ability to deflect attacks. Usually, your chacter requires something to guard with, usually a shield, in order to have **Guard**. Enemies can attempt to break through your **Guard**. If you have **Broken Guard** or **Destroyed Guard** you may use your action to **Recover Guard**.
+**Guard** is your character's ability to deflect attacks. Usually, your character requires something to guard with, usually a shield, in order to have **Guard**. Enemies can attempt to break through your **Guard**. If you have **Broken Guard** or **Destroyed Guard** you may use your action to **Recover Guard**.
 
 #### Recover Guard
 
-You may use an action to automatically remove **Guard Break**. You may use an action to attempt to remove **Destoyed Guard**. Removing **Destroyed Guard** automatically removes **Broken Guard**.
+You may use an action to automatically remove **Guard Break**. You may use an action to attempt to remove **Destroyed Guard**. Removing **Destroyed Guard** automatically removes **Broken Guard**.
 
 ##### Rolling for **Destroyed Guard**
 
