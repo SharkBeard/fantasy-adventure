@@ -12,6 +12,8 @@ Starts with a shield, sword, and helm.
 
 Has Focused, and an skill of your choice
 
+
+
 #### Dwarf
 
 Starts with a warhammer, handaxe, and horned helm.
@@ -50,8 +52,8 @@ All fighters start with:
 Wounds: [ ] [ ] [ ]
 
 * Poisened [ ]
-* Guard broken [ ]
-* Pinned [ ]
+* Guard Broken / Guard Destroyed [ ] / [ ]
+* Pinned / Rooted [ ] / [ ]
 
 ### Inventory
 * 1 Leather Armor
@@ -130,8 +132,64 @@ Weight: 3 | 3 gp
 
 Adds 1 protection to your head
 
+### Horned Helm
+
+Weight: 3 | 3 gp
+
+Adds 1 protection to your head
+
 ### Shield
 
 Weight: 2 | 3 gp
 
-Lets your character guard
+Adds 1 **Protection** against bashing, slashing, and peircing to your arm.
+
+Lets your character **Guard**.
+
+### Spiked Shield
+
+Weight: 3 | 5 gp
+
+Lets your character **Guard**.
+
+### Leather Armor
+
+Weight: 8 | 4 gp
+
+Adds 1 **Protection** against slashing to your body.
+
+### Leather Gloves
+
+Weight: 2 | 2 gp
+
+Adds 1 **Protection** against slashing to your arms.
+
+### Leather Boots
+
+Weight: 3 | 2 gp
+
+Adds 1 **Protection** against slashing to your legs.
+
+### Warhammer
+
+Weight: 10 | 5 gp
+
+2-handed weapon. Does bashing damage.
+
+### Sword
+
+Weight: 3 | 4 gp
+
+1-handed weapon. Does slashing damage.
+
+### Handaxe
+
+Weight: 3 | 3 gp
+
+Once per combat: You may make a free attack, ignoring **Guard**.
+
+### Waraxe
+
+Weight: 6 | 4 gp
+
+1-handed weapon. Does slashing damage.
