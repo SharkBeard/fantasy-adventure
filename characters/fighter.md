@@ -10,7 +10,7 @@ Choose a race from the following:
 
 Starts with a shield, sword, and helm.
 
-Has Focused, and an skill of your choice
+Has Focused, and a skill of your choice
 
 
 
@@ -51,7 +51,7 @@ All fighters start with:
 
 Wounds: [ ] [ ] [ ]
 
-* Poisened [ ]
+* Poisoned [ ]
 * Guard Broken / Guard Destroyed [ ] / [ ]
 * Pinned / Rooted [ ] / [ ]
 
@@ -102,7 +102,7 @@ Once per combat:  You may perform one of the following actions.
 
 Once per combat: Pin an enemy
 
-#### Overwelm
+#### Overwhelm
 
 Once per combat: Break an enemy's guard.
 
@@ -142,7 +142,7 @@ Adds 1 protection to your head
 
 Weight: 2 | 3 gp
 
-Adds 1 **Protection** against bashing, slashing, and peircing to your arm.
+Adds 1 **Protection** against bashing, slashing, and piercing to your arm.
 
 Lets your character **Guard**.
 
