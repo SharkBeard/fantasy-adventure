@@ -86,8 +86,8 @@ The cold water is rushing all around you, threatening to push you downstream. It
 
 Roll 1 die. 
 
-3 or under: You slip. [go to 1a-6]
-4 or above: You make it across [go to 1a-5]
+* 3 or under: You slip. [go to 1a-6]
+* 4 or above: You make it across [go to 1a-5]
 
 #### 1a-4 Try to find a safer place to cross
 
@@ -96,10 +96,10 @@ You walk along the riverbed trying to find a safe way across. After a few minute
 ---
 
 Roll 1 die:
-1: A kobold [combat with a kobold]
-2: A spider [combat with a spider]
-3: A rat [combat with a rat]
-4+: Everything is fine.
+* 1: A kobold [combat with a kobold]
+* 2: A spider [combat with a spider]
+* 3: A rat [combat with a rat]
+* 4+: Everything is fine.
 
 After: go to 1a-5
 
@@ -137,9 +137,9 @@ Finally, you come across a cave. You peer inside.
 
 Roll 1 die. If you have an asterisk next to the river, add one to the result.
 
-1: This cave is full of spiders. [combat with a spider and then go back to chapter 1]
-2-3: This cave is too small to be the right cave. [go back to chapter 1]
-4-6: You can hear kobolds inside. [go to chapter 2]
+* 1: This cave is full of spiders. [combat with a spider and then go back to chapter 1]
+* 2-3: This cave is too small to be the right cave. [go back to chapter 1]
+* 4-6: You can hear kobolds inside. [go to chapter 2]
 
 ### 1e A Bear?!?
 
@@ -155,8 +155,8 @@ After walking in the forest for a while, you start getting frustrated at how eve
 
 If you would like to try to eat them, roll one die. If you have the survival skill, add 2 to the roll.
 
-3 or under: You are poisoned.
-4 or above: You take a rest. You can heal a wound without using food. You can spend XP.
+* 3 or under: You are poisoned.
+* 4 or above: You take a rest. You can heal a wound without using food. You can spend XP.
 
 ---
 
@@ -189,13 +189,13 @@ You finally made it to the kobold cave. There is light coming from within and yo
 
 Roll 2 dice.
 
-2: Flaming kobold [enter combat]
-3-4: Kobold chef [enter combat]
-5: Two Kobolds [enter combat]
-6-9: Kobold [enter combat]
-10: Dead Adventurer [go to 2a]
-11: Treasure! [go to 2b]
-12: The King's chamber [go to chapter 3]
+* 2: Flaming kobold [enter combat]
+* 3-4: Kobold chef [enter combat]
+* 5: Two Kobolds [enter combat]
+* 6-9: Kobold [enter combat]
+* 10: Dead Adventurer [go to 2a]
+* 11: Treasure! [go to 2b]
+* 12: The King's chamber [go to chapter 3]
 
 ### 2a Dead Adventurer
 
@@ -282,9 +282,9 @@ This sure is a big rat. Also, pretty ugly for a rat.
 
 Wounds: 1
 
-1: Flee
-2-5: Attack
-6: Grab [Pin]
+* 1: Flee
+* 2-5: Attack
+* 6: Grab [Pin]
 
 ### Bear
 
@@ -296,11 +296,11 @@ HOLY CRAP! THAT'S A BEAR!
 
 Wounds: 3 | Dodge
 
-1: Attack (Bashing)
-2-3: Attack (Slashing)
-4: Swipe [Break Guard & Attack]
-5: Maul [Pin & Attack]
-6: Tackle [Break Guard & Pin]
+* 1: Attack (Bashing)
+* 2-3: Attack (Slashing)
+* 4: Swipe [Break Guard & Attack]
+* 5: Maul [Pin & Attack]
+* 6: Tackle [Break Guard & Pin]
 
 
 ### Spider
